@@ -12,7 +12,7 @@
     justify-content: center;
     align-items: center;
     background: linear-gradient(to right bottom, #ffa585, #45c5d8);
-    color: #fff;
+    color: #353333;
     font-weight: 600;
   }
   
@@ -24,11 +24,17 @@
     flex-direction: column;
     background: transparent;
     box-shadow: 8px 8px 4px #909090, 8px 8px 0px #575757;
+    width: 600px;
+    height: 500px;
   }
   
   .container h1{
     font-size: 1.4rem;
     margin-block: 8px;
+  }
+  #copyIcon{
+    width:200px;
+    height: 35px;
   }
   .inputBox{
     position: relative;
@@ -73,9 +79,9 @@
   .genBtn{
     border: none;
     outline: none;
-    background-color: #2c619e;
+    background-color: #b1fbf3;
     padding: 12px 24px;
-    color: #fff;
+    color: #343131;
     font-size: 18px;
     margin-block: 8px;
     font-weight: 700;
@@ -86,4 +92,13 @@
   .genBtn:hover{
     background-color: #0066ff;
   }
+
+.img{
+  width: 40px;
+  height: 40px;
+  margin-left: 90px;
+}
   
+.head{
+  margin-left: 170px;
+ } 
