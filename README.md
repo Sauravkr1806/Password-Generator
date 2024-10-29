@@ -4,9 +4,10 @@ A simple and user-friendly password generator built using HTML, CSS, and JavaScr
 # Run on Terminal
 Mozilla-Firefox 
 # Demo
+[Live Demo](https://sauravkr1806.github.io/Password-Generator/)
 
 # Table Content
-[OverView](https://github.com/Sauravkr1806/Basic-Calculator/tree/main#overview).
+[OverView](https://github.com/Sauravkr1806/Password-Generator#overview).
 
 [Usage](https://github.com/Sauravkr1806/Password-Generator/blob/main/README.md#usage).
 
@@ -17,6 +18,7 @@ Mozilla-Firefox
 [Conclusion](https://github.com/Sauravkr1806/Password-Generator#conclusion).
 
 # Overview
+In the age of cyber connectivity, where our digital lives are a complex web of usernames and passwords, the importance of a robust and secure password cannot be overstated. As we navigate the vast landscape of online platforms, safeguarding our personal information is paramount. Enter our Password Generator Tool - an indispensable ally in the quest for digital security.
 
 # Usage
   * Open index.html in your web browser.
@@ -31,3 +33,4 @@ Mozilla-Firefox
 # Showcase
 
 # Conclusion
+This project is an excellent starting point for learning web development and the javascript array & string operations that can be expanded with additional features to suit your needs.
