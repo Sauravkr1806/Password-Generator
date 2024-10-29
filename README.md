@@ -31,6 +31,6 @@ In the age of cyber connectivity, where our digital lives are a complex web of u
   * Include or exclude uppercase letters, numbers, and special characters
   * Copy the generated password to the clipboard
 # Showcase
-
+![Screenshot (203)](https://github.com/user-attachments/assets/7f9aeaca-e8b0-423f-bbb1-0151c45593f2)
 # Conclusion
 This project is an excellent starting point for learning web development and the javascript array & string operations that can be expanded with additional features to suit your needs.
